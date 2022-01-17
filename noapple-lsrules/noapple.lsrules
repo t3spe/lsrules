@@ -1,0 +1,76 @@
+{
+  "description": " No more apple traffic - the little snitch way ",
+  "name": "noapple.lsrules",
+  "rules": [
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "139.178.128.0-139.178.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "14.208.0.0-14.223.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "144.178.0.0-144.178.63.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "17.0.0.0-17.255.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2403:0300:0000:0000:0000:0000:0000:0000-2403:0300:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2620:0000:1af8:0000:0000:0000:0000:0000-2620:0000:1aff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2620:0148:8000:0000:0000:0000:0000:0000-2620:0148:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2620:0149:0000:0000:0000:0000:0000:0000-2620:0149:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2a01:b740:0000:0000:0000:0000:0000:0000-2a01:b747:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "apple.com"
+    }
+  ]
+}
