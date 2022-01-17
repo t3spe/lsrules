@@ -7448,6 +7448,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "albertaprimetimes.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "albertaventure.com"
     },
     {
@@ -12769,6 +12776,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "arizonabusinessgazette.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "arizonadailyindependent.com"
     },
     {
       "action": "deny",
@@ -19250,13 +19264,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "bellosfeed.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "belmarket.by"
     },
     {
@@ -20980,13 +20987,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "blackelectorate.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "blackfaldslife.com"
     },
     {
       "action": "deny",
@@ -26040,6 +26040,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "calexicochronicle.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "calgarybuzz.com"
     },
     {
@@ -26153,6 +26160,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "calmarcourier.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "calmatters.org"
     },
     {
       "action": "deny",
@@ -26335,6 +26349,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "camer24.net"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "camerfoot-infos.com"
     },
     {
       "action": "deny",
@@ -40845,6 +40866,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "danas.ba"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "danas.rs"
     },
     {
@@ -41917,6 +41945,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "delpais.com.pe"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "delphnews.com"
     },
     {
       "action": "deny",
@@ -43379,6 +43414,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "diario-digital.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "diario-elmensajero.com.ar"
     },
     {
@@ -44640,6 +44682,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "diariodigitalelindependiente.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "diariodigitalstl.com"
     },
     {
       "action": "deny",
@@ -59535,6 +59584,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "fayettevilleflyer.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "fayettevillepress.com"
     },
     {
@@ -65744,6 +65800,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "gazetasi.al"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "gazetastart.com"
     },
     {
@@ -65808,6 +65871,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "gazetazp.ru"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "gazeteapp.com"
     },
     {
       "action": "deny",
@@ -69657,6 +69727,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "gruttle.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "gs.by"
     },
     {
@@ -71989,6 +72066,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "hashilthsa.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "hashtagwv.com"
     },
     {
       "action": "deny",
@@ -74642,6 +74726,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "holtonrecorder.net"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "holtvilletribune.com"
     },
     {
       "action": "deny",
@@ -88326,7 +88417,7 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "kerbycentre.com"
+      "remote-domains": "kerbynews.ca"
     },
     {
       "action": "deny",
@@ -92638,13 +92729,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "kwhn.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "kwikkonnection.com"
     },
     {
@@ -93940,6 +94024,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "lagostic.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "lagrandeobserver.com"
     },
     {
@@ -94529,6 +94620,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "lakehavasumagazine.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "lakelandconnect.net"
     },
     {
       "action": "deny",
@@ -98812,6 +98910,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "ledenews.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "ledevoir.com"
     },
     {
@@ -101920,6 +102025,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "localnewsmatters.org"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "localnewsonly.com"
     },
     {
@@ -102278,6 +102390,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "lonokenews.net"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "lookout.co"
     },
     {
       "action": "deny",
@@ -108542,7 +108661,7 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "metrotimes.ng"
+      "remote-domains": "metrotimesng.com"
     },
     {
       "action": "deny",
@@ -111601,6 +111720,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "mopnantes.fr"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "mopo.de"
     },
     {
@@ -112106,6 +112232,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "mountainstatesman.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mountainstatespotlight.org"
     },
     {
       "action": "deny",
@@ -122661,6 +122794,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "noticiasaldespertar.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "noticiasaldiayalahora.co"
     },
     {
@@ -127498,6 +127638,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "omaringa.com.br"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "omarisco.com.br"
     },
     {
@@ -131265,6 +131412,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "pap.pl"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "papayaso.co"
     },
     {
       "action": "deny",
@@ -155848,6 +156002,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "soccerhub.com.ng"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "socialnetlink.org"
     },
     {
@@ -160027,6 +160188,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "strenuousblog.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "strictly-business.com"
     },
     {
@@ -161484,6 +161652,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "surfcityvoice.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "surfguardcr.com"
     },
     {
       "action": "deny",
@@ -164780,6 +164955,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "tenerifeweekly.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "tengrinews.kz"
     },
     {
@@ -166958,6 +167140,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "thecitizenonline.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "thecity1.com"
     },
     {
       "action": "deny",
@@ -178185,13 +178374,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "tribwekchron.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "tricities.com"
     },
     {
@@ -182140,6 +182322,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "urduglobally.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "urdunamah.com"
     },
     {
@@ -185332,6 +185521,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "virginiamercury.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "virginiamn.com"
     },
     {
@@ -187020,6 +187216,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "waldronnews.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "walesnewsonline.com"
     },
     {
       "action": "deny",
@@ -190982,6 +191185,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "williamsonherald.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "williamsonsource.com"
     },
     {
       "action": "deny",

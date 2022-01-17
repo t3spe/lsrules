@@ -35,6 +35,55 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-addresses": "23.72.0.0-23.79.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "27.106.0.0-27.106.127.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "27.110.128.0-27.110.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "57.102.0.0-57.103.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "57.112.0.0-57.127.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "63.64.0.0-63.127.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "65.192.0.0-65.223.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-addresses": "2403:0300:0000:0000:0000:0000:0000:0000-2403:0300:ffff:ffff:ffff:ffff:ffff:ffff"
     },
     {
