@@ -399,13 +399,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-addresses": "24.93.0.0-24.93.255.255"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-addresses": "57.102.0.0-57.103.255.255"
     },
     {
