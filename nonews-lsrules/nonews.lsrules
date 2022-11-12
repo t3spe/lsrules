@@ -343,7 +343,7 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "12noticias.com.ar"
+      "remote-domains": "12noticias.tv"
     },
     {
       "action": "deny",
@@ -519,6 +519,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "1815.ch"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "19640noticias.com"
     },
     {
       "action": "deny",
@@ -960,6 +967,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "24horas.cl"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "24horas.com.ar"
     },
     {
       "action": "deny",
@@ -10584,6 +10598,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "anacondaleader.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "anacortesnow.com"
     },
     {
@@ -16437,6 +16458,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "bajo-segura.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "bajo0.com.ar"
     },
     {
       "action": "deny",
@@ -26194,6 +26222,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "calidadtdf.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "californiachronicle.com"
     },
     {
@@ -35252,6 +35287,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "conectadosconlaciudad.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "conejoscountycitizen.com"
     },
     {
@@ -35588,14 +35630,14 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "consensos.com.mx"
+      "remote-domains": "consensopatagonico.com.ar"
     },
     {
       "action": "deny",
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "consignastdf.com.ar"
+      "remote-domains": "consensos.com.mx"
     },
     {
       "action": "deny",
@@ -36408,6 +36450,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "correodelsur.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "correodiario.com.ar"
     },
     {
       "action": "deny",
@@ -37787,6 +37836,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "criticalmoment.org"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "criticasur.com.ar"
     },
     {
       "action": "deny",
@@ -40999,6 +41055,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "dancehallmag.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "dandenongleader.com.au"
     },
     {
@@ -41944,6 +42007,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "delfuegonoticias.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "delgazette.com"
     },
     {
@@ -41973,6 +42043,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "delitometro.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dellagonoticias.com"
     },
     {
       "action": "deny",
@@ -42665,6 +42742,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "desarrollozonal.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "descalvadoagora.com.br"
     },
     {
@@ -42722,6 +42806,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "desdelared.com.mx"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "desdelasbases.com.ar"
     },
     {
       "action": "deny",
@@ -43002,6 +43093,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "destinopanama.com.pa"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "detalpalonoticias.com.ar"
     },
     {
       "action": "deny",
@@ -46032,7 +46130,7 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "diarioprensatdf.com"
+      "remote-domains": "diarioprensa.com.ar"
     },
     {
       "action": "deny",
@@ -47271,13 +47369,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "diversityrevue.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "divinews.com"
     },
     {
@@ -47839,6 +47930,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "dominicagazette.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "dominican.news"
     },
     {
       "action": "deny",
@@ -52493,6 +52591,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "eldoce.tv"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "eldolorense.com"
     },
     {
@@ -52844,6 +52949,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "elfederaense.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "elfederalnoticias.com"
     },
     {
       "action": "deny",
@@ -55629,6 +55741,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "eltolhuinense.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "eltoque.com"
     },
     {
@@ -57330,6 +57449,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "esnoticiatdf.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "espacefmguinee.info"
     },
     {
@@ -58745,6 +58871,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "expatica.ru"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "expats.cz"
     },
     {
       "action": "deny",
@@ -61271,20 +61404,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "fm903tolhuin.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "fm957online.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "fm963.com.ar"
     },
     {
@@ -61488,6 +61607,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "fmespectaculo.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "fmestacionsaladas.com"
     },
     {
@@ -61593,13 +61719,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "fmmia.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "fmmonterrico.com"
     },
     {
@@ -61692,6 +61811,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "fmriolapaz.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "fmritual.com.ar"
     },
     {
       "action": "deny",
@@ -65241,13 +65367,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "galvezhoy.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "galvezinformado.com.ar"
     },
     {
       "action": "deny",
@@ -69860,6 +69979,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "gremialesdelsur.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "grenadabroadcast.com"
     },
     {
@@ -73249,6 +73375,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "helsinkitimes.fi"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "helsinkytdf.com"
     },
     {
       "action": "deny",
@@ -77028,6 +77161,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "identidadnoticias.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "idividi.com.mk"
     },
     {
@@ -77869,6 +78009,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "impactocorrientes.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "impactodiario.com.ar"
     },
     {
       "action": "deny",
@@ -78750,6 +78897,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "info3noticias.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "info7dias.com.ar"
     },
     {
@@ -79338,6 +79492,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "informacionestdf.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "informador.com.mx"
     },
     {
@@ -79597,6 +79758,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "informetdf.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "informevip.com.ar"
     },
     {
@@ -79731,6 +79899,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "infotarija.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "infotdf.com"
     },
     {
       "action": "deny",
@@ -81159,6 +81334,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "isla92.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "islagrandenoticias.com.ar"
     },
     {
       "action": "deny",
@@ -82706,6 +82888,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "jcam.com.br"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "jcanoticias.com.ar"
     },
     {
       "action": "deny",
@@ -88999,13 +89188,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "keymagfw.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "keymusic.com.ar"
     },
     {
       "action": "deny",
@@ -95438,6 +95620,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "lamuy.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "lan-xang.com"
     },
     {
@@ -96279,6 +96468,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "lapagina.com.sv"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "lapaginaexpress.com.ar"
     },
     {
       "action": "deny",
@@ -98561,6 +98757,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "lavozspanishnewspaper.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "lavoztdf.com"
     },
     {
       "action": "deny",
@@ -110334,6 +110537,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "minutofueguino.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "minutog.com.ar"
     },
     {
@@ -110713,6 +110923,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "mitchellrepublic.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "mitdf.com.ar"
     },
     {
       "action": "deny",
@@ -112189,13 +112406,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "mopof.org"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "moravskoslezskenovinky.cz"
     },
     {
@@ -112841,6 +113051,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "movillerecord.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "movimientopopularfueguino.com.ar"
     },
     {
       "action": "deny",
@@ -115472,13 +115689,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "nacionalriogrande.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "nacionalrosario.com.ar"
     },
     {
@@ -115508,13 +115718,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "nacionalsantiago.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "nacionalushuaia.com.ar"
     },
     {
       "action": "deny",
@@ -123144,6 +123347,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "noticiadetapa.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "noticiadosmunicipios.com.br"
     },
     {
@@ -123404,6 +123614,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "noticiascuyo.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "noticiasd.com"
     },
     {
       "action": "deny",
@@ -123816,6 +124033,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "noticiasentucuman.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "noticiaseps.com.ar"
     },
     {
@@ -123845,6 +124069,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "noticiasfortuna.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "noticiasfueguinas.com"
     },
     {
       "action": "deny",
@@ -125399,6 +125630,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "nuevaeranet.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "nuevahoramagazine.com.ar"
     },
     {
       "action": "deny",
@@ -130200,6 +130438,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "otramiradatdf.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "otrodia.com"
     },
     {
@@ -132118,6 +132363,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "paralelo54online.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "paralelosurnoticias.com.ar"
     },
     {
@@ -132595,13 +132847,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "patagonianexo.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "patagoniawouk.com"
     },
     {
       "action": "deny",
@@ -133994,6 +134239,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "periodicovggnoticias.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "periodicovictoria.cu"
     },
     {
@@ -134030,13 +134282,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "periodismosur.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "periodismovecinal.com.ar"
     },
     {
       "action": "deny",
@@ -136731,6 +136976,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "portaldemedios.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "portaldemelipilla.cl"
     },
     {
@@ -138768,7 +139020,7 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "primerlector.com"
+      "remote-domains": "primerlector.com.ar"
     },
     {
       "action": "deny",
@@ -139342,6 +139594,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "provincia23.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "provinciafm.com"
     },
     {
@@ -139672,6 +139931,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "pueblasinfronteras.com.mx"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "pueblochiconoticias.com.ar"
     },
     {
       "action": "deny",
@@ -141008,6 +141274,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "quetepasatdf.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "quickdfw.com"
     },
     {
@@ -141898,13 +142171,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "radiodelibera.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "radiodellagotolhuin.com.ar"
     },
     {
       "action": "deny",
@@ -144613,7 +144879,7 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "red23.com.ar"
+      "remote-domains": "red23noticias.com.ar"
     },
     {
       "action": "deny",
@@ -144628,6 +144894,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "redaccionaltagracia.com.ar"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "redaccionaustral.com"
     },
     {
       "action": "deny",
@@ -145965,6 +146238,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "resumendelaregion.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "resumenfederal.com.ar"
     },
     {
       "action": "deny",
@@ -151641,6 +151921,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "satelitenoticias.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "satelitesuipacha.com.ar"
     },
     {
@@ -152971,6 +153258,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "sellofueguino.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "selmatimesjournal.com"
     },
     {
@@ -153077,13 +153371,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "semanarioextra.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "semanariofueguino.com.ar"
     },
     {
       "action": "deny",
@@ -159887,6 +160174,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-domains": "startitup.sk"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-domains": "startribune.com"
     },
     {
@@ -162387,13 +162681,6 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "surinenglish.com"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-domains": "surio.com"
     },
     {
       "action": "deny",
@@ -176120,13 +176407,6 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-domains": "tierradelfuegonews.com.ar"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
       "remote-domains": "tierradeperiodistas.com"
     },
     {
@@ -176870,6 +177150,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "titanherald.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "titulares.ar"
     },
     {
       "action": "deny",
@@ -177724,6 +178011,13 @@
       "owner": "me",
       "process": "any",
       "remote-domains": "toledonewsnow.com"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "tolhuinprimero.com"
     },
     {
       "action": "deny",
