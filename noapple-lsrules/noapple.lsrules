@@ -112,6 +112,13 @@
       "notes": "",
       "owner": "me",
       "process": "any",
+      "remote-addresses": "18.128.0.0-18.255.255.255"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
       "remote-addresses": "20.137.0.0-20.137.255.255"
     },
     {
@@ -155,13 +162,6 @@
       "owner": "me",
       "process": "any",
       "remote-addresses": "23.111.64.0-23.111.79.255"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-addresses": "23.16.0.0-23.17.255.255"
     },
     {
       "action": "deny",
@@ -225,13 +225,6 @@
       "owner": "me",
       "process": "any",
       "remote-addresses": "23.72.0.0-23.79.255.255"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-addresses": "23.80.0.0-23.81.255.255"
     },
     {
       "action": "deny",
@@ -302,13 +295,6 @@
       "owner": "me",
       "process": "any",
       "remote-addresses": "24.159.0.0-24.159.255.255"
-    },
-    {
-      "action": "deny",
-      "notes": "",
-      "owner": "me",
-      "process": "any",
-      "remote-addresses": "24.172.0.0-24.172.255.255"
     },
     {
       "action": "deny",
@@ -406,14 +392,14 @@
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-addresses": "63.64.0.0-63.127.255.255"
+      "remote-addresses": "65.192.0.0-65.223.255.255"
     },
     {
       "action": "deny",
       "notes": "",
       "owner": "me",
       "process": "any",
-      "remote-addresses": "65.192.0.0-65.223.255.255"
+      "remote-addresses": "2402:3a80:0000:0000:0000:0000:0000:0000-2402:3a80:ffff:ffff:ffff:ffff:ffff:ffff"
     },
     {
       "action": "deny",
@@ -442,6 +428,34 @@
       "owner": "me",
       "process": "any",
       "remote-addresses": "2620:0149:0000:0000:0000:0000:0000:0000-2620:0149:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2800:0098:0000:0000:0000:0000:0000:0000-2800:0098:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2800:0bf0:0000:0000:0000:0000:0000:0000-2800:0bf0:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2803:b510:0000:0000:0000:0000:0000:0000-2803:b510:ffff:ffff:ffff:ffff:ffff:ffff"
+    },
+    {
+      "action": "deny",
+      "notes": "",
+      "owner": "me",
+      "process": "any",
+      "remote-addresses": "2803:e360:0000:0000:0000:0000:0000:0000-2803:e360:ffff:ffff:ffff:ffff:ffff:ffff"
     },
     {
       "action": "deny",
